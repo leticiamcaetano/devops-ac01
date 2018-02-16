@@ -1,6 +1,6 @@
 # devops-aula02
 
 Ator 1
-Ator 2
+Victor o GAto
 Atriz 1
 Atriz 2
