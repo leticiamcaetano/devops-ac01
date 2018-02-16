@@ -1,6 +1,6 @@
 # devops-aula02
 
 Ator 1
-Ator 2
+Sento kiko devagar
 Atriz 1
 Atriz 2
